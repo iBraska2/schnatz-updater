@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "notes": "Automated release for 0.0.0",
+  "pub_date": "2025-09-08T10:12:22.798Z",
+  "platforms": {
+    "windows-x86_64": {
+      "version": "0.1.0",
+      "signature": "",
+      "url": "https://ibraska2.github.io/schnatz-updater/schnatz_0.1.0_x64_en-US.msi"
+    }
+  }
+}
