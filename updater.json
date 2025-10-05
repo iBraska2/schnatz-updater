@@ -1,0 +1,12 @@
+{
+  "version": "0.0.9",
+  "notes": "Automated release for 0.0.9",
+  "pub_date": "2025-10-05T21:29:17.561Z",
+  "platforms": {
+    "windows-x86_64": {
+      "version": "0.0.9",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM3k3cGdiUENqWmJKNUNMM0NaR2o5TDEzdXM2aHhIaVh1Z2Z0MWh3c20wOXd6TnhlSEpXL0l4N01vNUZqb2dscWJkS2ZqcjhxbiszaGpzZnJGTjdEcjlxQXZocktkdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5Njk5NzU0CWZpbGU6c2NobmF0el8wLjAuOV94NjQtc2V0dXAuZXhlCmhualZqQjArcHZmcmhSS2ZtZEhJTERGWlRmRUZOaENxVlFaYzFRajFTSDhFWlh4aEw1d1pFWjd0K0hydDFRNEdxSWl6RzNMZDNHWXBCRUtQRml1U0F3PT0K",
+      "url": "https://ibraska2.github.io/Schnatz-updater/Schnatz_0.0.9_x64-setup.exe"
+    }
+  }
+}
